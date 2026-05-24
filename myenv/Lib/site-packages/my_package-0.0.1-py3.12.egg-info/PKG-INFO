@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: my_package
+Version: 0.0.1
+Summary: A sample python application
+Home-page: https://github.com/vipulsutar/my_package
+Author: Vipul Sutar
+Author-email: vipulsutar001@gmail.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: summary

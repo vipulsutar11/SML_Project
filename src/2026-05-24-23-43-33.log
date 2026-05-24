@@ -1,0 +1,6 @@
+2026-05-24 23:43:33,966 - DEBUG - Detailed diagnostic information.
+2026-05-24 23:43:33,967 - INFO - Confirmation that things are working.
+2026-05-24 23:43:33,967 - WARNING - An unexpected issue occurred.
+2026-05-24 23:43:33,968 - INFO - Data Injestion method starts
+2026-05-24 23:43:33,969 - INFO - Exception occurred in data injestion method
+2026-05-24 23:43:33,970 - ERROR - Error occurred in file: c:\Users\vipul\sml_project\src\components\data_injestion.py at line: 22 with error message: [Errno 2] No such file or directory: 'notebook/data\\stud.csv'

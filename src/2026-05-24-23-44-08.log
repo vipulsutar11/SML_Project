@@ -1,0 +1,6 @@
+2026-05-24 23:44:08,022 - DEBUG - Detailed diagnostic information.
+2026-05-24 23:44:08,022 - INFO - Confirmation that things are working.
+2026-05-24 23:44:08,022 - WARNING - An unexpected issue occurred.
+2026-05-24 23:44:08,026 - INFO - Data Injestion method starts
+2026-05-24 23:44:08,046 - INFO - Dataset read as pandas dataframe from artifacts\StudentsPerformance.csv
+2026-05-24 23:44:11,443 - INFO - split the data into train and test data
