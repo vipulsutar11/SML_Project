@@ -1,0 +1,10 @@
+2026-05-26 10:34:19,236 - DEBUG - Detailed diagnostic information.
+2026-05-26 10:34:19,236 - INFO - Confirmation that things are working.
+2026-05-26 10:34:19,236 - WARNING - An unexpected issue occurred.
+2026-05-26 10:34:25,266 - INFO - Starting training pipeline...
+2026-05-26 10:34:25,268 - INFO - Step 1: Initiating data injection...
+2026-05-26 10:34:25,268 - INFO - Data Injestion method starts
+2026-05-26 10:34:25,304 - INFO - Dataset read as pandas dataframe from artifacts\StudentsPerformance.csv
+2026-05-26 10:34:27,419 - INFO - split the data into train and test data
+2026-05-26 10:34:27,420 - INFO - Data injection completed. Train: artifacts\train_data.csv, Test: artifacts\test_data.csv
+2026-05-26 10:34:27,420 - INFO - Training pipeline completed successfully!

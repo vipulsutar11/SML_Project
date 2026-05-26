@@ -1,0 +1,30 @@
+2026-05-26 11:24:31,942 - DEBUG - Detailed diagnostic information.
+2026-05-26 11:24:31,942 - INFO - Confirmation that things are working.
+2026-05-26 11:24:31,942 - WARNING - An unexpected issue occurred.
+2026-05-26 11:24:35,860 - INFO - Starting trainer pipeline...
+2026-05-26 11:24:35,860 - INFO - Step 1: Initiating data injection...
+2026-05-26 11:24:35,860 - INFO - Data Injestion method starts
+2026-05-26 11:24:35,919 - INFO - Dataset read as pandas dataframe from artifacts\StudentsPerformance.csv
+2026-05-26 11:24:38,902 - INFO - split the data into train and test data
+2026-05-26 11:24:38,902 - INFO - Data injection completed. Train: artifacts\train_data.csv, Test: artifacts\test_data.csv
+2026-05-26 11:24:38,902 - INFO - Training pipeline completed successfully!
+2026-05-26 11:24:45,554 - INFO - Starting prediction...
+2026-05-26 11:24:45,556 - INFO - Prediction completed successfully!
+2026-05-26 11:24:53,086 - INFO - Starting prediction...
+2026-05-26 11:24:53,086 - INFO - Prediction completed successfully!
+2026-05-26 11:25:46,987 - DEBUG - Detailed diagnostic information.
+2026-05-26 11:25:46,987 - INFO - Confirmation that things are working.
+2026-05-26 11:25:46,987 - WARNING - An unexpected issue occurred.
+2026-05-26 11:25:51,184 - INFO - Starting trainer pipeline...
+2026-05-26 11:25:51,186 - INFO - Step 1: Initiating data injection...
+2026-05-26 11:25:51,187 - INFO - Data Injestion method starts
+2026-05-26 11:25:51,195 - INFO - Dataset read as pandas dataframe from artifacts\StudentsPerformance.csv
+2026-05-26 11:25:51,209 - INFO - split the data into train and test data
+2026-05-26 11:25:51,209 - INFO - Data injection completed. Train: artifacts\train_data.csv, Test: artifacts\test_data.csv
+2026-05-26 11:25:51,209 - INFO - Training pipeline completed successfully!
+2026-05-26 11:25:56,167 - INFO - Starting prediction...
+2026-05-26 11:25:56,168 - INFO - Prediction completed. Score: 50.00
+2026-05-26 11:26:06,137 - INFO - Starting prediction...
+2026-05-26 11:26:06,137 - INFO - Prediction completed. Score: 41.67
+2026-05-26 11:27:16,465 - INFO - Starting prediction...
+2026-05-26 11:27:16,466 - INFO - Prediction completed. Score: 41.67
